@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    def check_email(string):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9561
+status: Solved
+feedback:
+  message: |-
+    Connection to server was interrupted
+
+    timeout
+  time: Mon, 27 Jul 2020 16:16:45 UTC
+record: -1

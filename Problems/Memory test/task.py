@@ -1,0 +1,5 @@
+numbers = input().split()
+answers = input().split()
+number_set = set(numbers)
+answers_set = set(answers)
+print(number_set == answers_set)
